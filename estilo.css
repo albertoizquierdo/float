@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+#izquierda{
+    float: left;
+    padding: 0;
+    margin: 0;
+    width: 16em;
+}
+#derecha{
+    float: left;
+    padding: 0;
+    margin: 0;
+    width: 44em;
+}
+body{
+    width: 60em;
+    margin: 0 auto;
+}
+#columnas{
+    list-style-type: none;
+    padding: 0;
+}
+#columnas li{
+    float: left;
+    width: 33%;
+}
